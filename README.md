@@ -22,7 +22,7 @@ The objective is to understand Netflix’s content strategy, global expansion, a
 
 ## 📊 Dashboard Preview
 
-![Netflix Dashboard](Dashboard/netflix_dashboard.png)
+![Netflix Dashboard](netflix_dashboard.png)
 
 ---
 
